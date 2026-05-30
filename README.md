@@ -15,6 +15,7 @@ A Full Stack Library Management System developed using Spring Boot, Hibernate/JP
 - HTML
 - CSS
 - JavaScript
+- React
 --------------------------------------------------
 
 # Project Architecture
